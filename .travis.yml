@@ -9,4 +9,5 @@ install:
 
 # command to run tests
 script:
+  - python manage.py check
   - python manage.py test

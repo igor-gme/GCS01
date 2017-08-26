@@ -1,3 +1,9 @@
+Build Status:
+
+Travis CI: [![Build Status](https://travis-ci.org/igor-gme/GCS01.svg?branch=master)](https://travis-ci.org/igor-gme/GCS01)
+
+Circle CI: [![CircleCI](https://circleci.com/gh/igor-gme/GCS01.svg?style=svg)](https://circleci.com/gh/igor-gme/GCS01)
+
 # Django Basico
 
 ## Ambiente de Dev
@@ -31,5 +37,3 @@ python manage.py runserver 0:8000
 ```
 
 O acesso deve ser feito através do `localhost:8000`.
-
-

@@ -1,10 +1,10 @@
-Build Status:
-
-Travis CI: [![Build Status](https://travis-ci.org/igor-gme/GCS01.svg?branch=master)](https://travis-ci.org/igor-gme/GCS01)
-
-Circle CI: [![CircleCI](https://circleci.com/gh/igor-gme/GCS01.svg?style=svg)](https://circleci.com/gh/igor-gme/GCS01)
-
 # Django Basico
+
+## Build Status:
+
+**Travis CI:** [![Build Status](https://travis-ci.org/igor-gme/GCS01.svg?branch=master)](https://travis-ci.org/igor-gme/GCS01)
+
+**Circle CI:** [![CircleCI](https://circleci.com/gh/igor-gme/GCS01.svg?style=svg)](https://circleci.com/gh/igor-gme/GCS01)
 
 ## Ambiente de Dev
 

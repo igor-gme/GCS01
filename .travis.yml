@@ -9,5 +9,10 @@ install:
 
 # command to run tests
 script:
+  - python manage.py makemigrations
+  - python manage.py migrate
   - python manage.py check
   - python manage.py test
+
+after_script:
+  - flake8 --exclude polls/migrations/,manage.py
